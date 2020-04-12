@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from helpers.strings import extract_lower, extract_upper
 
 from helpers import variables
